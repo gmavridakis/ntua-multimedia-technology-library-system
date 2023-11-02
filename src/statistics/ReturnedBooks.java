@@ -9,7 +9,7 @@ import java.util.Date;
 
 /**
  *
- * @author hoxha
+ * @author Grigoris Mavridakis
  */
 public class ReturnedBooks {
     

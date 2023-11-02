@@ -30,7 +30,7 @@ import javax.swing.JOptionPane;
 /**
  * FXML Controller class
  *
- * @author hoxha
+ * @author Grigoris Mavridakis
  */
 public class ReturnBookController implements Initializable {
 

@@ -15,7 +15,7 @@ import javafx.stage.StageStyle;
 
 /**
  *
- * @author hoxha
+ * @author Grigoris Mavridakis
  */
 public class LibraryFX extends Application {
     

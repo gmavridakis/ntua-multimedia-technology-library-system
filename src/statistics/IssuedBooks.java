@@ -7,7 +7,7 @@ package statistics;
 
 /**
  *
- * @author hoxha
+ * @author Grigoris Mavridakis
  */
 public class IssuedBooks {
     

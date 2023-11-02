@@ -24,7 +24,7 @@ import javafx.stage.Stage;
 
 /**
  *
- * @author hoxha
+ * @author Grigoris Mavridakis
  */
 public class FXMLDocumentController {
 

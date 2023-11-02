@@ -28,7 +28,7 @@ import javafx.stage.Stage;
 /**
  * FXML Controller class
  *
- * @author User
+ * @author Grigoris Mavridakis
  */
 public class AddBookController implements Initializable {
 

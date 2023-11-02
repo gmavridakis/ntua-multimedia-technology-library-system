@@ -34,7 +34,7 @@ import statistics.ReturnedBooks;
 /**
  * FXML Controller class
  *
- * @author hoxha
+ * @author Grigoris Mavridakis
  */
 public class StatisticsController implements Initializable {
 
